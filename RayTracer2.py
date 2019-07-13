@@ -126,7 +126,7 @@ def main():
                 running = False
                 sys.exit(0)
         circle(screen)
-        triangle(screen,(400,500),(300,300),(100,100))
+        #triangle(screen,(400,500),(300,300),(100,100))
         pygame.display.flip()
         
 if __name__ == "__main__":
